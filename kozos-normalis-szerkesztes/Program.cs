@@ -24,8 +24,12 @@ namespace kozos_normalis_szerkesztes
 
         static void megyerimarton()
         {
-            Console.WriteLine("Megyeri Márton");
-            
+            Console.WriteLine("Megyeri Márton");            
+        }
+
+        static void nada()
+        {
+            Console.WriteLine("Nagy Dániel");
         }
     }
 }
