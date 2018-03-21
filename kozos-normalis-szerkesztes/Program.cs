@@ -14,6 +14,10 @@ namespace kozos_normalis_szerkesztes
             balazsbence();
             megyerimarton();          
             nada();
+
+            Megyerimarton mm = new Megyerimarton();
+            Console.WriteLine(mm.getName());
+
             Console.ReadKey();
         }
 
