@@ -12,6 +12,7 @@ namespace kozos_normalis_szerkesztes
         {
             Console.WriteLine("Hello Világ");
             balazsbence();
+            megyerimarton();
         }
 
         static void balazsbence()
