@@ -12,5 +12,10 @@ namespace kozos_normalis_szerkesztes
         {
             Console.WriteLine("Hello Világ");
         }
+
+        static void megyerimarton()
+        {
+            Console.WriteLine("Megyeri Márton");
+        }
     }
 }
