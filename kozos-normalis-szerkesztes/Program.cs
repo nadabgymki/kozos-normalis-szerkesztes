@@ -12,8 +12,8 @@ namespace kozos_normalis_szerkesztes
         {
             Console.WriteLine("Hello Világ");
             balazsbence();
-            megyerimarton();
-
+            megyerimarton();          
+            nada();
             Console.ReadKey();
         }
 
@@ -24,10 +24,10 @@ namespace kozos_normalis_szerkesztes
 
         static void megyerimarton()
         {
-            Console.WriteLine("Megyeri Márton");
+            Console.WriteLine("Megyeri Márton");            
         }
 
-        static void nev()
+        static void nada()
         {
             Console.WriteLine("Dániel");
             szakzsolt();
