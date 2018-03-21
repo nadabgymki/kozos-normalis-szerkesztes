@@ -15,6 +15,10 @@ namespace kozos_normalis_szerkesztes
             megyerimarton();
             szakzsolt();
             nada();
+
+            Megyerimarton mm = new Megyerimarton();
+            Console.WriteLine(mm.getName());
+
             Console.ReadKey();
         }
 
