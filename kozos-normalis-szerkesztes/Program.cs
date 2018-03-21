@@ -33,7 +33,13 @@ namespace kozos_normalis_szerkesztes
 
         static void nada()
         {
-            Console.WriteLine("Nagy Dániel");
+            Console.WriteLine("Dániel");
+            szakzsolt();
+            Console.ReadKey();
+        }
+        public static void szakzsolt()
+        {
+            Console.WriteLine("Szakmári Zsolt");
         }
     }
 }
